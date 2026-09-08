@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Clean SVG Grabber",
+  "version": "1.0",
+  "description": "Extract, clean, and copy inline SVGs or React JSX from any web page.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
